@@ -2,13 +2,14 @@
 This repository contains standardized documents and templates commonly used by Citizen Developer Business Architects (CDBAs). These tools support task management, stakeholder coordination, role definition, and organizational maturity assessments. They are intended to streamline the CDBA workflow and promote consistent practices across initiatives.
 
 ## 📁 Contents
-File	Description
-CDBA Task.pdf	A standard reference outlining key responsibilities and tasks of a CDBA.
-Checklist.pdf	A PDF checklist to ensure comprehensive coverage of CDBA activities across projects.
-Commitment Tracker.xlsx	An Excel template for tracking stakeholder commitments and follow-ups.
-RACI Template.xlsx	A RACI (Responsible, Accountable, Consulted, Informed) matrix template for role clarity across tasks.
-Roles and Responsibilities in the Maturity Model Stages.pdf	Defines how CDBA roles evolve across organizational maturity stages.
-Stakeholder Matrix.xlsx	A tool to identify, assess, and plan engagement with stakeholders.
+| File | Description |
+| ---- | ----------- |
+| CDBA Task.pdf | A standard reference outlining key responsibilities and tasks of a CDBA. |
+| Checklist.pdf | A PDF checklist to ensure comprehensive coverage of CDBA activities across projects. |
+| Commitment Tracker.xlsx | An Excel template for tracking stakeholder commitments and follow-ups. |
+| RACI Template.xls | A RACI (Responsible, Accountable, Consulted, Informed) matrix template for role clarity across tasks. |
+| Roles and Responsibilities in the Maturity Model Stages.pdf | Defines how CDBA roles evolve across organizational maturity stages. |
+| Stakeholder Matrix.xlsx | A tool to identify, assess, and plan engagement with stakeholders. |
 
 ## 🧭 Purpose
 The goal of this toolkit is to empower CDBAs with ready-to-use resources that:
