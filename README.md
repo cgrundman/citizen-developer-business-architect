@@ -24,6 +24,6 @@ The goal of this toolkit is to empower CDBAs with ready-to-use resources that:
 Download and customize these templates as needed for your project or organization. Each file is meant to serve as a foundation—adaptation to specific business contexts is encouraged.
 
 ## 🛡️ License
-This repository is licensed under the Apache License 2.0. You are free to use, modify, and distribute this material for personal or internal use under the terms of that license.
+This repository is licensed under the [Apache License 2.0](https://github.com/cgrundman/citizen-developer-business-architect/blob/main/LICENSE). You are free to use, modify, and distribute this material for personal or internal use under the terms of that license.
 
-Note: Commercial use of these templates or documents requires prior written permission from PMI.org, as some materials or frameworks may incorporate PMI intellectual property or be subject to usage restrictions.
+Note: Commercial use of these templates or documents requires prior written permission from [PMI.org](pmi.org), as some materials or frameworks may incorporate PMI intellectual property or be subject to usage restrictions.
